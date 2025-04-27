@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋</h1>
 
 <p align="center">
-  I'm a passionate software developer and student currently in high school from
+  I'm a passionate software developer and high school student from
   Ireland <img src="https://flagicons.lipis.dev/flags/4x3/ie.svg" width="20" height="15" alt="Ireland">.
   I enjoy coding in Java, C#, HTML/CSS/JS, but I also have experience with several other programming languages.
 </p>
