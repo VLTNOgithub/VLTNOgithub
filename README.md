@@ -66,7 +66,7 @@
   <a href="https://www.reddit.com/user/Val105/">
     <img src="https://img.shields.io/badge/Reddit-FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white">
   </a>
-  <a href="https://discord.com/invite/jDsgcehrp7">
+  <a href="https://discord.com/invite/AVs2Yb7RrW">
     <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <br>
