@@ -42,6 +42,7 @@
 
 
 ## 🚀 **Currently Interested In**
+- 💻 Software development
 - 🔐 Cybersecurity
 - 🎮 Game development
 - 🌐 Web development
