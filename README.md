@@ -20,7 +20,7 @@
 <sup>(In no particular order)</sup>
 <p align="center">
 
-  <img src="https://github.com/devicons/devicon/raw/master/icons/windows8/windows8-original.svg" width="40" alt="Windows 10">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original.svg" width="40" alt="Windows 10">
   <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="40" alt="Linux">
   <img src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" width="40" alt="Android & ADB">
   <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode">
