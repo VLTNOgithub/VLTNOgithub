@@ -1,9 +1,8 @@
-<h1 align="center">Hey! 👋</h1>
+<h1 align="center">VLTNO</h1>
 
 <p align="center">
-  I'm a passionate software developer and high school student from
+  Passionate software developer from
   Ireland <img src="https://flagicons.lipis.dev/flags/4x3/ie.svg" width="20" height="15" alt="Ireland">.
-  I enjoy coding in Java, C#, HTML/CSS/JS, but I also have experience with several other programming languages.
 </p>
 
 
@@ -11,13 +10,13 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/VLTNOgithub?label=Followers&style=flat-square" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/VLTNOgithub?affiliations=OWNER&style=flat-square&label=Stars" alt="GitHub Stars">
-  <img src="https://custom-icon-badges.demolab.com/badge/OS-Windows%2010-%230078D6?style=flat-square&logo=windows10&logoColor=white" alt="Windows 10">
+  <img src="https://custom-icon-badges.demolab.com/badge/OS-Windows%2011-%230078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11">
   <img src="https://custom-icon-badges.demolab.com/badge/Editor-Visual%20Studio%20Code-0078D6.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code">
   <img src="https://custom-icon-badges.demolab.com/badge/IDE-IntelliJ%20Idea-0078D6.svg?&logo=intellijidea&logoColor=white&style=flat-square" alt="IntelliJ Idea">
 </p>
 
 
-## 🔧 **Technologies & Expertise**
+## 🔧 **Expertise**
 <sup>(In no particular order)</sup>
 <p align="center">
 
@@ -41,9 +40,8 @@
 </p>
 
 
-## 🚀 **Currently Interested In**
+## 🚀 **Interested In**
 - 💻 Software development
-- 🔐 Cybersecurity
 - 🎮 Game development
 - 🌐 Web development
 
@@ -59,7 +57,7 @@
 
 
 
-## 🔗 **Connect with Me**
+## 🔗 **Links**
 <p align="center">
   <a href="https://x.com/VLTNOTR">
     <img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=X&logoColor=white">
