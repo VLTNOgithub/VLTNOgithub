@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/VLTNOgithub?label=Followers&style=flat-square" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/followers/VLTNOgithub?style=flat-square&label=Followers" alt="GitHub Followers">
   <img src="https://img.shields.io/github/stars/VLTNOgithub?affiliations=OWNER&style=flat-square&label=Stars" alt="GitHub Stars">
   <img src="https://custom-icon-badges.demolab.com/badge/OS-Windows%2011-%230078D6?style=flat-square&logo=windows11&logoColor=white" alt="Windows 11">
   <img src="https://custom-icon-badges.demolab.com/badge/Editor-Visual%20Studio%20Code-0078D6.svg?logo=visual-studio-code&logoColor=white&style=flat-square" alt="Visual Studio Code">
@@ -22,15 +22,9 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/windows11/windows11-original.svg" width="40" alt="Windows 10">
   <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" width="40" alt="Linux">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/android/android-plain.svg" width="40" alt="Android & ADB">
   <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode">
   <img src="https://github.com/devicons/devicon/raw/master/icons/intellij/intellij-original.svg" width="40" alt="IntelliJ Idea">
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg" width="40" alt="Git">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/unity/unity-original.svg" width="40" alt="Unity">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/godot/godot-original.svg" width="40" alt="Godot">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/powershell/powershell-original.svg" width="40" alt="Powershell">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/vercel/vercel-original.svg" width="40" alt="Vercel">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/cloudflare/cloudflare-original.svg" width="40" alt="Cloudflare">
   <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" width="40" alt="Python">
   <img src="https://github.com/devicons/devicon/raw/master/icons/csharp/csharp-original.svg" width="40" alt="C#">
   <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" width="40" alt="HTML">
@@ -42,7 +36,6 @@
 
 ## 🚀 **Interested In**
 - 💻 Software development
-- 🎮 Game development
 - 🌐 Web development
 
 
