@@ -1,8 +1,7 @@
 <h1 align="center">VLTNO</h1>
 
 <p align="center">
-  Passionate software developer from
-  Ireland <img src="https://flagicons.lipis.dev/flags/4x3/ie.svg" width="20" height="15" alt="Ireland">.
+  Passionate software developer from Ireland
 </p>
 
 
@@ -16,7 +15,7 @@
 </p>
 
 
-## 🔧 **Expertise**
+## **Tools**
 <sup>(In no particular order)</sup>
 <p align="center">
 
@@ -34,23 +33,14 @@
 </p>
 
 
-## 🚀 **Interested In**
-- 💻 Software development
-- 🌐 Web development
+## **Interested In**
+- Software development
+- Web development
+- Game development
 
+<br>
 
-
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VLTNOgithub&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&text_color=DEDEDE&layout=compact" weight=41% height="192px" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VLTNOgithub&layout=compact&show_icons=true&theme=transparent&hide_border=true&text_color=DEDEDE" alt="Top Languages" height="192px">
-  <img alt="VLTNOgithub's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=VLTNOgithub&bg_color=transparent&color=DEDEDE&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contributions⠀Graph" />
-</p>
-
-
-
-
-## 🔗 **Links**
+## **Links**
 <p align="center">
   <a href="https://x.com/VLTNOTR">
     <img src="https://img.shields.io/badge/Twitter-blue.svg?style=for-the-badge&logo=X&logoColor=white">
